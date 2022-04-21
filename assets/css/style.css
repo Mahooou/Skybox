@@ -1205,7 +1205,7 @@ a:hover{
     padding-left: 40px;
     font-family: "Comfortaa", sans-serif;
 }
-.RegisterHTML .Sec1Div input[type="text"]::-webkit-input-placeholder{
+.RegisterHTML .Sec1Div input[type="text"]::placeholder{
     color: #adadad;
     font-size: 24px;
     font-weight: 700; 
